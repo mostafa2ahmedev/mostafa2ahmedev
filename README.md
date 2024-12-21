@@ -30,7 +30,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Sql](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=sql)&nbsp;
-![Csharp](https://img.shields.io/badge/-C#-05122A?style=flat&logo=Csharp)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
 
 
 
