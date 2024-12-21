@@ -14,7 +14,6 @@
 
 
 
-https://www.linkedin.com/in/mostafa-ahmed-43a897318/
 
 
 ### Connect with Me :
