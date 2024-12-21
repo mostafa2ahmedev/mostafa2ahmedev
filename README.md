@@ -28,9 +28,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
-![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=Java)&nbsp;
-![sql](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
-![csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
+![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![sql](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=sql)&nbsp;
+![csharp](https://img.shields.io/badge/-C#-05122A?style=flat&logo=csharp)&nbsp;
 
 
 
