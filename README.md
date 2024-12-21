@@ -29,6 +29,8 @@
 ![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=Java)&nbsp;
+![sql](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
+![c#](https://img.shields.io/badge/-c#-05122A?style=flat&logo=c#)&nbsp;
 
 
 
