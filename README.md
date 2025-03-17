@@ -11,7 +11,7 @@
   </a>
 </p>
 
----
+
 
 ### 🌐 Connect with Me:
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Mostafa%20Ahmed-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mostafa-ahmed-43a897318/" target="_blank">
-    <img src="https://img.shields.io/badge/-Mostafa%20Ahmed-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -29,16 +29,17 @@
 ### 🛠️ Tools & Technologies:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-9B4993?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LINQ-9B4993?style=flat&logo=LINQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Entity%20Framework%20Core-9B4993?style=flat&logo=EFC&logoColor=white"/>
+  
 </p>
 
 ---
