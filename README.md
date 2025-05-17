@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">
   Welcome to Mostafa Ahmed's Profile!
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-
+---
 
 ### 🌐 Connect with Me:
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Mostafa%20Ahmed-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mostafa-ahmed-43a897318/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
-
 
 ---
 
