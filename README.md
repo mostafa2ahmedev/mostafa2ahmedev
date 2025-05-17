@@ -26,7 +26,7 @@
 
 
 
----
+
 ### 🛠️ Tools & Technologies:
 
 <p align="center">
