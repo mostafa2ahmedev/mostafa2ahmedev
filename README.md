@@ -1,4 +1,4 @@
-<img width="400" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width="350" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">
   Welcome to Mostafa Ahmed's Profile!
@@ -26,7 +26,7 @@
 
 
 
-
+---
 ### 🛠️ Tools & Technologies:
 
 <p align="center">
