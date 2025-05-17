@@ -35,8 +35,7 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Database-4DB33D?style=flat&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-9B4993?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LINQ-9B4993?style=flat&logo=LINQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Entity%20Framework%20Core-9B4993?style=flat&logo=EFC&logoColor=white"/>
