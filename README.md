@@ -39,8 +39,11 @@
   <img src="https://img.shields.io/badge/-C%23-9B4993?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LINQ-9B4993?style=flat&logo=LINQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Entity%20Framework%20Core-9B4993?style=flat&logo=EFC&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
+
 
 ---
 
