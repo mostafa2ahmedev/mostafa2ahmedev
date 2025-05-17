@@ -11,7 +11,6 @@
   </a>
 </p>
 
----
 
 ### 🌐 Connect with Me:
 
@@ -24,7 +23,6 @@
   </a>
 </p>
 
----
 
 ### 🛠️ Tools & Technologies:
 
