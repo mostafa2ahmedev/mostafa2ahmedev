@@ -15,9 +15,6 @@
 ### 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://www.facebook.com/Mostafa2Elsheikh/" target="_blank">
-    <img src="https://img.shields.io/badge/-Mostafa%20Ahmed-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/mostafa-ahmed-43a897318/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
